@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\tt-018\Dokhoyan Harutyun\Praktika\Soft</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tt-018\Dokhoyan Harutyun\Praktika\Soft\TT018DokhoyanHaruyeun.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\delayRRR.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tt-018\Dokhoyan Harutyun\Praktika\Soft\TT018DokhoyanHaruyeun.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\tt-018\Dokhoyan Harutyun\Praktika\Soft\TT018DokhoyanHaruyeun.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\tt-018\Dokhoyan Harutyun\Praktika\Soft\TT018DokhoyanHaruyeun.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\tt-018\Dokhoyan Harutyun\Praktika\Soft\TT018DokhoyanHaruyeun.asm</FILE><LINE>16</LINE></main>
+  <AGN><FILE>D:\tt-018\Dokhoyan Harutyun\Praktika\Soft\TT018DokhoyanHaruyeun.asm</FILE><LINE>35</LINE></AGN>
+  <ZERO><FILE>D:\tt-018\Dokhoyan Harutyun\Praktika\Soft\TT018DokhoyanHaruyeun.asm</FILE><LINE>40</LINE></ZERO>
+ </LABELS>
+</ASSEMBLER_INFO>
